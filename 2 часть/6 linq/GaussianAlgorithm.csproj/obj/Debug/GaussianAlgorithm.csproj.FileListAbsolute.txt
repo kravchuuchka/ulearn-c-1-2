@@ -1,0 +1,10 @@
+D:\Пользователи\User01\Desktop\урфу\программирование\2 семестр\6 linq\GaussianAlgorithm.csproj\bin\Debug\GaussAlgorithm.exe.config
+D:\Пользователи\User01\Desktop\урфу\программирование\2 семестр\6 linq\GaussianAlgorithm.csproj\bin\Debug\GaussAlgorithm.exe
+D:\Пользователи\User01\Desktop\урфу\программирование\2 семестр\6 linq\GaussianAlgorithm.csproj\bin\Debug\GaussAlgorithm.pdb
+D:\Пользователи\User01\Desktop\урфу\программирование\2 семестр\6 linq\GaussianAlgorithm.csproj\bin\Debug\nunit.framework.dll
+D:\Пользователи\User01\Desktop\урфу\программирование\2 семестр\6 linq\GaussianAlgorithm.csproj\bin\Debug\nunitlite.dll
+D:\Пользователи\User01\Desktop\урфу\программирование\2 семестр\6 linq\GaussianAlgorithm.csproj\obj\Debug\GaussianAlgorithm.csprojAssemblyReference.cache
+D:\Пользователи\User01\Desktop\урфу\программирование\2 семестр\6 linq\GaussianAlgorithm.csproj\obj\Debug\GaussianAlgorithm.csproj.CoreCompileInputs.cache
+D:\Пользователи\User01\Desktop\урфу\программирование\2 семестр\6 linq\GaussianAlgorithm.csproj\obj\Debug\GaussianAlgorithm.csproj.CopyComplete
+D:\Пользователи\User01\Desktop\урфу\программирование\2 семестр\6 linq\GaussianAlgorithm.csproj\obj\Debug\GaussAlgorithm.exe
+D:\Пользователи\User01\Desktop\урфу\программирование\2 семестр\6 linq\GaussianAlgorithm.csproj\obj\Debug\GaussAlgorithm.pdb

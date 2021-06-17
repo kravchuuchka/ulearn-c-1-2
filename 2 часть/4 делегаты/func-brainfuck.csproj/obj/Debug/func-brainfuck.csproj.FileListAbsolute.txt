@@ -1,0 +1,10 @@
+D:\Пользователи\User01\Desktop\урфу\программирование\2 семестр\4 делегаты\func-brainfuck.csproj\bin\Debug\brainfuck.exe.config
+D:\Пользователи\User01\Desktop\урфу\программирование\2 семестр\4 делегаты\func-brainfuck.csproj\bin\Debug\brainfuck.exe
+D:\Пользователи\User01\Desktop\урфу\программирование\2 семестр\4 делегаты\func-brainfuck.csproj\bin\Debug\brainfuck.pdb
+D:\Пользователи\User01\Desktop\урфу\программирование\2 семестр\4 делегаты\func-brainfuck.csproj\bin\Debug\nunit.framework.dll
+D:\Пользователи\User01\Desktop\урфу\программирование\2 семестр\4 делегаты\func-brainfuck.csproj\bin\Debug\nunitlite.dll
+D:\Пользователи\User01\Desktop\урфу\программирование\2 семестр\4 делегаты\func-brainfuck.csproj\obj\Debug\func-brainfuck.csprojAssemblyReference.cache
+D:\Пользователи\User01\Desktop\урфу\программирование\2 семестр\4 делегаты\func-brainfuck.csproj\obj\Debug\func-brainfuck.csproj.CoreCompileInputs.cache
+D:\Пользователи\User01\Desktop\урфу\программирование\2 семестр\4 делегаты\func-brainfuck.csproj\obj\Debug\func-brainfuck.csproj.CopyComplete
+D:\Пользователи\User01\Desktop\урфу\программирование\2 семестр\4 делегаты\func-brainfuck.csproj\obj\Debug\brainfuck.exe
+D:\Пользователи\User01\Desktop\урфу\программирование\2 семестр\4 делегаты\func-brainfuck.csproj\obj\Debug\brainfuck.pdb

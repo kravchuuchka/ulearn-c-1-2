@@ -1,0 +1,22 @@
+D:\Пользователи\User01\Desktop\всё\учёба\программирование\2 семестр\LimitedSizeStack.csproj\bin\Debug\TodoApplication.exe.config
+D:\Пользователи\User01\Desktop\всё\учёба\программирование\2 семестр\LimitedSizeStack.csproj\bin\Debug\TodoApplication.exe
+D:\Пользователи\User01\Desktop\всё\учёба\программирование\2 семестр\LimitedSizeStack.csproj\bin\Debug\TodoApplication.pdb
+D:\Пользователи\User01\Desktop\всё\учёба\программирование\2 семестр\LimitedSizeStack.csproj\bin\Debug\nunit.framework.dll
+D:\Пользователи\User01\Desktop\всё\учёба\программирование\2 семестр\LimitedSizeStack.csproj\obj\Debug\LimitedSizeStack.csprojAssemblyReference.cache
+D:\Пользователи\User01\Desktop\всё\учёба\программирование\2 семестр\LimitedSizeStack.csproj\obj\Debug\TodoApplication.Properties.Resources.resources
+D:\Пользователи\User01\Desktop\всё\учёба\программирование\2 семестр\LimitedSizeStack.csproj\obj\Debug\LimitedSizeStack.csproj.GenerateResource.cache
+D:\Пользователи\User01\Desktop\всё\учёба\программирование\2 семестр\LimitedSizeStack.csproj\obj\Debug\LimitedSizeStack.csproj.CoreCompileInputs.cache
+D:\Пользователи\User01\Desktop\всё\учёба\программирование\2 семестр\LimitedSizeStack.csproj\obj\Debug\LimitedSizeStack.csproj.CopyComplete
+D:\Пользователи\User01\Desktop\всё\учёба\программирование\2 семестр\LimitedSizeStack.csproj\obj\Debug\TodoApplication.exe
+D:\Пользователи\User01\Desktop\всё\учёба\программирование\2 семестр\LimitedSizeStack.csproj\obj\Debug\TodoApplication.pdb
+D:\Пользователи\User01\Desktop\урфу\программирование\2 семестр\1 очереди, стеки, дженерики\LimitedSizeStack.csproj\bin\Debug\TodoApplication.exe.config
+D:\Пользователи\User01\Desktop\урфу\программирование\2 семестр\1 очереди, стеки, дженерики\LimitedSizeStack.csproj\bin\Debug\TodoApplication.exe
+D:\Пользователи\User01\Desktop\урфу\программирование\2 семестр\1 очереди, стеки, дженерики\LimitedSizeStack.csproj\bin\Debug\TodoApplication.pdb
+D:\Пользователи\User01\Desktop\урфу\программирование\2 семестр\1 очереди, стеки, дженерики\LimitedSizeStack.csproj\bin\Debug\nunit.framework.dll
+D:\Пользователи\User01\Desktop\урфу\программирование\2 семестр\1 очереди, стеки, дженерики\LimitedSizeStack.csproj\obj\Debug\LimitedSizeStack.csprojAssemblyReference.cache
+D:\Пользователи\User01\Desktop\урфу\программирование\2 семестр\1 очереди, стеки, дженерики\LimitedSizeStack.csproj\obj\Debug\TodoApplication.Properties.Resources.resources
+D:\Пользователи\User01\Desktop\урфу\программирование\2 семестр\1 очереди, стеки, дженерики\LimitedSizeStack.csproj\obj\Debug\LimitedSizeStack.csproj.GenerateResource.cache
+D:\Пользователи\User01\Desktop\урфу\программирование\2 семестр\1 очереди, стеки, дженерики\LimitedSizeStack.csproj\obj\Debug\LimitedSizeStack.csproj.CoreCompileInputs.cache
+D:\Пользователи\User01\Desktop\урфу\программирование\2 семестр\1 очереди, стеки, дженерики\LimitedSizeStack.csproj\obj\Debug\LimitedSizeStack.csproj.CopyComplete
+D:\Пользователи\User01\Desktop\урфу\программирование\2 семестр\1 очереди, стеки, дженерики\LimitedSizeStack.csproj\obj\Debug\TodoApplication.exe
+D:\Пользователи\User01\Desktop\урфу\программирование\2 семестр\1 очереди, стеки, дженерики\LimitedSizeStack.csproj\obj\Debug\TodoApplication.pdb

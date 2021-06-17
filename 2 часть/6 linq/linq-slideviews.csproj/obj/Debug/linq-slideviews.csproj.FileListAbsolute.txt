@@ -1,0 +1,10 @@
+D:\Пользователи\User01\Desktop\урфу\программирование\2 семестр\6 linq\linq-slideviews.csproj\bin\Debug\slides.txt
+D:\Пользователи\User01\Desktop\урфу\программирование\2 семестр\6 linq\linq-slideviews.csproj\bin\Debug\visits.txt
+D:\Пользователи\User01\Desktop\урфу\программирование\2 семестр\6 linq\linq-slideviews.csproj\bin\Debug\linq-slideviews.exe
+D:\Пользователи\User01\Desktop\урфу\программирование\2 семестр\6 linq\linq-slideviews.csproj\bin\Debug\linq-slideviews.pdb
+D:\Пользователи\User01\Desktop\урфу\программирование\2 семестр\6 linq\linq-slideviews.csproj\bin\Debug\nunit.framework.dll
+D:\Пользователи\User01\Desktop\урфу\программирование\2 семестр\6 linq\linq-slideviews.csproj\obj\Debug\linq-slideviews.csprojAssemblyReference.cache
+D:\Пользователи\User01\Desktop\урфу\программирование\2 семестр\6 linq\linq-slideviews.csproj\obj\Debug\linq-slideviews.csproj.CoreCompileInputs.cache
+D:\Пользователи\User01\Desktop\урфу\программирование\2 семестр\6 linq\linq-slideviews.csproj\obj\Debug\linq-slideviews.csproj.CopyComplete
+D:\Пользователи\User01\Desktop\урфу\программирование\2 семестр\6 linq\linq-slideviews.csproj\obj\Debug\linq-slideviews.exe
+D:\Пользователи\User01\Desktop\урфу\программирование\2 семестр\6 linq\linq-slideviews.csproj\obj\Debug\linq-slideviews.pdb
