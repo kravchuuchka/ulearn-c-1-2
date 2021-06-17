@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y9NuNSuCv5MYumfBagz5Z1pilZB9iITum+jNy0IhTCWw0F6oHvCXtMxEdhvwpRz0KoSAWHdYGf/G5IxYDBxINA==",
+  "success": true,
+  "projectFilePath": "D:\\Пользователи\\User01\\Desktop\\всё\\учёба\\практики и семинары прога\\сдано\\GeometryTasks\\GeometryTasks.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User01\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\User01\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

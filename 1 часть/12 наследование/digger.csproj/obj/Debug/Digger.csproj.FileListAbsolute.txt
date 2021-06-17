@@ -1,0 +1,32 @@
+D:\Пользователи\User01\Desktop\всё\учёба\практики и семинары прога\digger.csproj\bin\Debug\Images\Digger.png
+D:\Пользователи\User01\Desktop\всё\учёба\практики и семинары прога\digger.csproj\bin\Debug\Images\Gold.png
+D:\Пользователи\User01\Desktop\всё\учёба\практики и семинары прога\digger.csproj\bin\Debug\Images\Monster.png
+D:\Пользователи\User01\Desktop\всё\учёба\практики и семинары прога\digger.csproj\bin\Debug\Images\Sack.png
+D:\Пользователи\User01\Desktop\всё\учёба\практики и семинары прога\digger.csproj\bin\Debug\Images\Terrain.png
+D:\Пользователи\User01\Desktop\всё\учёба\практики и семинары прога\digger.csproj\bin\Debug\11-digger.exe.config
+D:\Пользователи\User01\Desktop\всё\учёба\практики и семинары прога\digger.csproj\bin\Debug\11-digger.exe
+D:\Пользователи\User01\Desktop\всё\учёба\практики и семинары прога\digger.csproj\bin\Debug\11-digger.pdb
+D:\Пользователи\User01\Desktop\всё\учёба\практики и семинары прога\digger.csproj\bin\Debug\nunit.framework.dll
+D:\Пользователи\User01\Desktop\всё\учёба\практики и семинары прога\digger.csproj\obj\Debug\Digger.csprojAssemblyReference.cache
+D:\Пользователи\User01\Desktop\всё\учёба\практики и семинары прога\digger.csproj\obj\Debug\Digger.Properties.Resources.resources
+D:\Пользователи\User01\Desktop\всё\учёба\практики и семинары прога\digger.csproj\obj\Debug\Digger.csproj.GenerateResource.cache
+D:\Пользователи\User01\Desktop\всё\учёба\практики и семинары прога\digger.csproj\obj\Debug\Digger.csproj.CoreCompileInputs.cache
+D:\Пользователи\User01\Desktop\всё\учёба\практики и семинары прога\digger.csproj\obj\Debug\Digger.csproj.CopyComplete
+D:\Пользователи\User01\Desktop\всё\учёба\практики и семинары прога\digger.csproj\obj\Debug\11-digger.exe
+D:\Пользователи\User01\Desktop\всё\учёба\практики и семинары прога\digger.csproj\obj\Debug\11-digger.pdb
+D:\Пользователи\User01\Desktop\урфу\программирование\1 семестр\digger.csproj\bin\Debug\Images\Digger.png
+D:\Пользователи\User01\Desktop\урфу\программирование\1 семестр\digger.csproj\bin\Debug\Images\Gold.png
+D:\Пользователи\User01\Desktop\урфу\программирование\1 семестр\digger.csproj\bin\Debug\Images\Monster.png
+D:\Пользователи\User01\Desktop\урфу\программирование\1 семестр\digger.csproj\bin\Debug\Images\Sack.png
+D:\Пользователи\User01\Desktop\урфу\программирование\1 семестр\digger.csproj\bin\Debug\Images\Terrain.png
+D:\Пользователи\User01\Desktop\урфу\программирование\1 семестр\digger.csproj\bin\Debug\11-digger.exe.config
+D:\Пользователи\User01\Desktop\урфу\программирование\1 семестр\digger.csproj\bin\Debug\11-digger.exe
+D:\Пользователи\User01\Desktop\урфу\программирование\1 семестр\digger.csproj\bin\Debug\11-digger.pdb
+D:\Пользователи\User01\Desktop\урфу\программирование\1 семестр\digger.csproj\bin\Debug\nunit.framework.dll
+D:\Пользователи\User01\Desktop\урфу\программирование\1 семестр\digger.csproj\obj\Debug\Digger.csprojAssemblyReference.cache
+D:\Пользователи\User01\Desktop\урфу\программирование\1 семестр\digger.csproj\obj\Debug\Digger.Properties.Resources.resources
+D:\Пользователи\User01\Desktop\урфу\программирование\1 семестр\digger.csproj\obj\Debug\Digger.csproj.GenerateResource.cache
+D:\Пользователи\User01\Desktop\урфу\программирование\1 семестр\digger.csproj\obj\Debug\Digger.csproj.CoreCompileInputs.cache
+D:\Пользователи\User01\Desktop\урфу\программирование\1 семестр\digger.csproj\obj\Debug\Digger.csproj.CopyComplete
+D:\Пользователи\User01\Desktop\урфу\программирование\1 семестр\digger.csproj\obj\Debug\11-digger.exe
+D:\Пользователи\User01\Desktop\урфу\программирование\1 семестр\digger.csproj\obj\Debug\11-digger.pdb

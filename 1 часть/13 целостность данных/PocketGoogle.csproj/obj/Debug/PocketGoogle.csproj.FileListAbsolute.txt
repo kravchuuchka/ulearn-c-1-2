@@ -1,0 +1,15 @@
+D:\User01\Desktop\нужно\учёба\программирование\PocketGoogle.csproj\bin\Debug\Texts\0.txt
+D:\User01\Desktop\нужно\учёба\программирование\PocketGoogle.csproj\bin\Debug\Texts\1.txt
+D:\User01\Desktop\нужно\учёба\программирование\PocketGoogle.csproj\bin\Debug\Texts\2.txt
+D:\User01\Desktop\нужно\учёба\программирование\PocketGoogle.csproj\bin\Debug\Texts\4.txt
+D:\User01\Desktop\нужно\учёба\программирование\PocketGoogle.csproj\bin\Debug\PocketGoogle.exe.config
+D:\User01\Desktop\нужно\учёба\программирование\PocketGoogle.csproj\bin\Debug\PocketGoogle.exe
+D:\User01\Desktop\нужно\учёба\программирование\PocketGoogle.csproj\bin\Debug\PocketGoogle.pdb
+D:\User01\Desktop\нужно\учёба\программирование\PocketGoogle.csproj\bin\Debug\nunit.framework.dll
+D:\User01\Desktop\нужно\учёба\программирование\PocketGoogle.csproj\obj\Debug\PocketGoogle.csprojAssemblyReference.cache
+D:\User01\Desktop\нужно\учёба\программирование\PocketGoogle.csproj\obj\Debug\PocketGoogle.Properties.Resources.resources
+D:\User01\Desktop\нужно\учёба\программирование\PocketGoogle.csproj\obj\Debug\PocketGoogle.csproj.GenerateResource.cache
+D:\User01\Desktop\нужно\учёба\программирование\PocketGoogle.csproj\obj\Debug\PocketGoogle.csproj.CoreCompileInputs.cache
+D:\User01\Desktop\нужно\учёба\программирование\PocketGoogle.csproj\obj\Debug\PocketGoogle.csproj.CopyComplete
+D:\User01\Desktop\нужно\учёба\программирование\PocketGoogle.csproj\obj\Debug\PocketGoogle.exe
+D:\User01\Desktop\нужно\учёба\программирование\PocketGoogle.csproj\obj\Debug\PocketGoogle.pdb
