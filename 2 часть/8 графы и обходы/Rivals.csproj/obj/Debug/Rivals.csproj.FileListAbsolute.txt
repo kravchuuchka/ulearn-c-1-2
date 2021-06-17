@@ -1,0 +1,15 @@
+D:\Пользователи\User01\Desktop\урфу\программирование\2 семестр\8 графы и обходы\Rivals.csproj\bin\Debug\Dungeons\Dungeon1.txt
+D:\Пользователи\User01\Desktop\урфу\программирование\2 семестр\8 графы и обходы\Rivals.csproj\bin\Debug\Dungeons\Dungeon2.txt
+D:\Пользователи\User01\Desktop\урфу\программирование\2 семестр\8 графы и обходы\Rivals.csproj\bin\Debug\Dungeons\Dungeon3.txt
+D:\Пользователи\User01\Desktop\урфу\программирование\2 семестр\8 графы и обходы\Rivals.csproj\bin\Debug\Dungeons\Dungeon4.txt
+D:\Пользователи\User01\Desktop\урфу\программирование\2 семестр\8 графы и обходы\Rivals.csproj\bin\Debug\Rivals.exe.config
+D:\Пользователи\User01\Desktop\урфу\программирование\2 семестр\8 графы и обходы\Rivals.csproj\bin\Debug\Rivals.exe
+D:\Пользователи\User01\Desktop\урфу\программирование\2 семестр\8 графы и обходы\Rivals.csproj\bin\Debug\Rivals.pdb
+D:\Пользователи\User01\Desktop\урфу\программирование\2 семестр\8 графы и обходы\Rivals.csproj\bin\Debug\nunit.framework.dll
+D:\Пользователи\User01\Desktop\урфу\программирование\2 семестр\8 графы и обходы\Rivals.csproj\obj\Debug\Rivals.csprojAssemblyReference.cache
+D:\Пользователи\User01\Desktop\урфу\программирование\2 семестр\8 графы и обходы\Rivals.csproj\obj\Debug\Rivals.Properties.Resources.resources
+D:\Пользователи\User01\Desktop\урфу\программирование\2 семестр\8 графы и обходы\Rivals.csproj\obj\Debug\Rivals.csproj.GenerateResource.cache
+D:\Пользователи\User01\Desktop\урфу\программирование\2 семестр\8 графы и обходы\Rivals.csproj\obj\Debug\Rivals.csproj.CoreCompileInputs.cache
+D:\Пользователи\User01\Desktop\урфу\программирование\2 семестр\8 графы и обходы\Rivals.csproj\obj\Debug\Rivals.csproj.CopyComplete
+D:\Пользователи\User01\Desktop\урфу\программирование\2 семестр\8 графы и обходы\Rivals.csproj\obj\Debug\Rivals.exe
+D:\Пользователи\User01\Desktop\урфу\программирование\2 семестр\8 графы и обходы\Rivals.csproj\obj\Debug\Rivals.pdb

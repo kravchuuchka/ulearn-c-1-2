@@ -1,0 +1,2 @@
+D:\Пользователи\User01\Desktop\урфу\программирование\2 семестр\12 динамическое программирование\Tickets.csproj\obj\Debug\Tickets.csprojAssemblyReference.cache
+D:\Пользователи\User01\Desktop\урфу\программирование\2 семестр\12 динамическое программирование\Tickets.csproj\obj\Debug\Tickets.csproj.CoreCompileInputs.cache
