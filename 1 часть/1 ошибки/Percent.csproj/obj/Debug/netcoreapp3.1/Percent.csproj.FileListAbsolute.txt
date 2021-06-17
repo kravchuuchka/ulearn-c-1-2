@@ -1,0 +1,13 @@
+D:\Пользователи\User01\Desktop\учёба\программирование\1 семестр\1 ошибки\Percent\obj\Debug\netcoreapp3.1\Percent.csprojAssemblyReference.cache
+D:\Пользователи\User01\Desktop\учёба\программирование\1 семестр\1 ошибки\Percent\obj\Debug\netcoreapp3.1\Percent.AssemblyInfoInputs.cache
+D:\Пользователи\User01\Desktop\учёба\программирование\1 семестр\1 ошибки\Percent\obj\Debug\netcoreapp3.1\Percent.AssemblyInfo.cs
+D:\Пользователи\User01\Desktop\учёба\программирование\1 семестр\1 ошибки\Percent\obj\Debug\netcoreapp3.1\Percent.csproj.CoreCompileInputs.cache
+D:\Пользователи\User01\Desktop\учёба\программирование\1 семестр\1 ошибки\Percent\bin\Debug\netcoreapp3.1\Percent.exe
+D:\Пользователи\User01\Desktop\учёба\программирование\1 семестр\1 ошибки\Percent\bin\Debug\netcoreapp3.1\Percent.deps.json
+D:\Пользователи\User01\Desktop\учёба\программирование\1 семестр\1 ошибки\Percent\bin\Debug\netcoreapp3.1\Percent.runtimeconfig.json
+D:\Пользователи\User01\Desktop\учёба\программирование\1 семестр\1 ошибки\Percent\bin\Debug\netcoreapp3.1\Percent.runtimeconfig.dev.json
+D:\Пользователи\User01\Desktop\учёба\программирование\1 семестр\1 ошибки\Percent\bin\Debug\netcoreapp3.1\Percent.dll
+D:\Пользователи\User01\Desktop\учёба\программирование\1 семестр\1 ошибки\Percent\bin\Debug\netcoreapp3.1\Percent.pdb
+D:\Пользователи\User01\Desktop\учёба\программирование\1 семестр\1 ошибки\Percent\obj\Debug\netcoreapp3.1\Percent.dll
+D:\Пользователи\User01\Desktop\учёба\программирование\1 семестр\1 ошибки\Percent\obj\Debug\netcoreapp3.1\Percent.pdb
+D:\Пользователи\User01\Desktop\учёба\программирование\1 семестр\1 ошибки\Percent\obj\Debug\netcoreapp3.1\Percent.genruntimeconfig.cache
