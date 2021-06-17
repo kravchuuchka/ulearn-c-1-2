@@ -1,0 +1,11 @@
+D:\User01\Desktop\нужно\учёба\программирование\manipulator.csproj\bin\Debug\Manipulator.exe.config
+D:\User01\Desktop\нужно\учёба\программирование\manipulator.csproj\bin\Debug\Manipulator.exe
+D:\User01\Desktop\нужно\учёба\программирование\manipulator.csproj\bin\Debug\Manipulator.pdb
+D:\User01\Desktop\нужно\учёба\программирование\manipulator.csproj\bin\Debug\nunit.framework.dll
+D:\User01\Desktop\нужно\учёба\программирование\manipulator.csproj\obj\Debug\manipulator.csprojAssemblyReference.cache
+D:\User01\Desktop\нужно\учёба\программирование\manipulator.csproj\obj\Debug\Manipulation.Properties.Resources.resources
+D:\User01\Desktop\нужно\учёба\программирование\manipulator.csproj\obj\Debug\manipulator.csproj.GenerateResource.cache
+D:\User01\Desktop\нужно\учёба\программирование\manipulator.csproj\obj\Debug\manipulator.csproj.CoreCompileInputs.cache
+D:\User01\Desktop\нужно\учёба\программирование\manipulator.csproj\obj\Debug\manipulator.csproj.CopyComplete
+D:\User01\Desktop\нужно\учёба\программирование\manipulator.csproj\obj\Debug\Manipulator.exe
+D:\User01\Desktop\нужно\учёба\программирование\manipulator.csproj\obj\Debug\Manipulator.pdb
